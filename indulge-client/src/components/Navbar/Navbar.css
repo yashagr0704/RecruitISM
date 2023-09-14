@@ -1,0 +1,18 @@
+#navbar {
+  padding: 1rem;
+  background-color: #01418b;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+#nav-logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#main-logo {
+  display: flex;
+}
